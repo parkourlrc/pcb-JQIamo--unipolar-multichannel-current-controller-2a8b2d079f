@@ -1,0 +1,2 @@
+Texas Instruments
+SUBCKT INA293A2 IN+ IN- VS GND OUT  TEXAS:INA293A2  [CurrShuntMon]  ;No comment 
